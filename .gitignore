@@ -1,0 +1,27 @@
+# Secrets — never commit
+.env
+.secrets/
+credentials.json
+token.json
+*.pem
+*.key
+
+# Client / personal data never commits
+06-clients/*
+!06-clients/README.md
+
+# Disposable
+.tmp/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
