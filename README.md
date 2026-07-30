@@ -28,8 +28,8 @@ orchestrate — that is how the system stays reliable.
 ## Quickstart (10 minutes)
 
 ```bash
-git clone https://github.com/jefkins/clavex-AIOS.git
-cd clavex-AIOS
+git clone https://github.com/jefkins/Clavex-AIOS.git
+cd Clavex-AIOS
 cp .env.example .env          # add your API keys
 ```
 
