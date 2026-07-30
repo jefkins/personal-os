@@ -1,4 +1,4 @@
-# 03-engine — the OS machinery
+# 03-engineering-os — the operating machinery
 
 - `skills/` — processes any AI harness can follow (plain markdown, frontmatter: name + description)
 - `workflows/` — step-by-step SOPs: objective, inputs, steps, tools, edge cases

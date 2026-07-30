@@ -1,4 +1,4 @@
-# OS.md — Universal Operating Contract
+# Clavex AI OS — Universal Operating Contract
 
 > Every AI harness (Claude Code, Codex, Gemini, whatever comes next) reads this
 > file first. The rules here override any default behaviour. Keep it under two
@@ -20,7 +20,8 @@
 This OS runs on Workflows → Agents → Tools.
 
 1. **Read the relevant workflow first.** Workflows live in
-   `03-engine/workflows/`. Don't improvise a multi-step process — read the SOP.
+   `03-engineering-os/workflows/`. Don't improvise a multi-step process — read
+   the SOP.
 2. **Confirm inputs before starting.** Every workflow lists what it needs.
    Missing inputs → ask, don't guess.
 3. **Run scripts, don't replicate them.** Execution lives in `07-scripts/`.
@@ -67,7 +68,7 @@ Entry format, always:
 ## 5. Session Protocol
 
 1. Read this file (you just did)
-2. Route the intent: `03-engine/context-router/intent-map.md`
+2. Route the intent: `03-engineering-os/context-router/intent-map.md`
 3. Load only the context the matched profile lists
 4. Work
 5. Before ending: write memory, update any workflow you improved, check `.tmp/`

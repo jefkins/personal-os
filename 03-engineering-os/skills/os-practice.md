@@ -5,7 +5,7 @@ description: Session primer for this OS. Invoke at the start of every session �
 
 # OS Practice — Session Primer
 
-You are operating inside a Personal OS. `OS.md` is the rule source.
+You are operating inside Clavex AI OS. `OS.md` is the rule source.
 
 ## Non-negotiables for this session
 1. **Read the workflow file before acting** — never improvise a multi-step process
@@ -17,7 +17,7 @@ You are operating inside a Personal OS. `OS.md` is the rule source.
 | Folder | Entry point |
 |---|---|
 | `02-knowledge/` | `_index.md` |
-| `03-engine/` | `context-router/intent-map.md` |
+| `03-engineering-os/` | `context-router/intent-map.md` |
 | `07-scripts/` | `python 07-scripts/core/check_env.py` |
 | `12-memory/` | `strategy.md` |
 

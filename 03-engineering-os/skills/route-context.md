@@ -10,10 +10,11 @@ description: Identify the task intent and load only the context it needs. Use at
 ## Process
 1. **Identify intent** — what is being produced, for whom, in what domain?
    Unclear → ask one scoping question before loading anything.
-2. **Match** against `03-engine/context-router/intent-map.md`
+2. **Match** against `03-engineering-os/context-router/intent-map.md`
 3. **Load** only the files the matched profile lists
 4. **Before building anything**, check for existing assets:
-   `10-templates/` → `03-engine/skills/` → `07-scripts/`. Reuse before rebuild.
+   `10-templates/` → `03-engineering-os/skills/` → `07-scripts/`. Reuse before
+   rebuild.
 5. **Task type changes mid-session** → re-route from step 1.
 
 ## Principle

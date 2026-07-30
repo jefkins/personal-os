@@ -14,4 +14,4 @@ own order (the private OS this comes from uses:
 Compliance > Delivery > Deadline-bound > Build > Content > everything else).
 
 **Skills are first-class route targets** — a row may point at a skill in
-`03-engine/skills/` instead of a profile.
+`03-engineering-os/skills/` instead of a profile.

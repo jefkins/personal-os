@@ -17,12 +17,12 @@ the placeholders with your reality. Work through this checklist.
 
 ## 4. First workflow run
 Tell your AI harness:
-> "Read OS.md, then run 03-engine/workflows/daily_startup.md"
+> "Read OS.md, then run 03-engineering-os/workflows/daily_startup.md"
 
 ## 5. Grow it
-- New repeatable process → write a workflow in `03-engine/workflows/`
+- New repeatable process → write a workflow in `03-engineering-os/workflows/`
 - New deterministic task → write a script in `07-scripts/`
-- New process an AI should follow → write a skill in `03-engine/skills/`
+- New process an AI should follow → write a skill in `03-engineering-os/skills/`
 - New subsystem → new numbered folder + one row in `OS.md`'s map
   (**routing parity rule**: if the routing docs don't know about it, no AI can find it)
 
