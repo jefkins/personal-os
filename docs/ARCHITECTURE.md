@@ -19,7 +19,7 @@ AI providers.
 | `09-deployments/` | Development, staging and production release state | Records environments and versions; never stores secrets |
 | `10-templates/` | Approved reusable starting points | Encode standards without duplicating live records |
 | `11-archive/` | Retired versions and historical material | Preserve history without routing active work through it |
-| `12-memory/` | Strategy, decisions, lessons and ideas | Captures learning so future sessions start stronger |
+| `12-memory/` | OS-operational memory: decisions, lessons, health logs | Captures learning so future sessions start stronger |
 
 ## How a request moves
 

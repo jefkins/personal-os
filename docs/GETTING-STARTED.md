@@ -5,15 +5,15 @@ the placeholders with your reality. Work through this checklist.
 
 ## 1. The contract (10 min)
 - [ ] Open `OS.md` → fill in Identity: who you are, what this OS runs, mission, voice
-- [ ] Read the Non-Negotiables — delete none, add your own
+- [ ] Read the Non-Negotiables in `01-governance/principles.md` — delete none, add your own
 
 ## 2. Credentials (5 min)
 - [ ] `cp .env.example .env`, add the keys for platforms you actually use
 - [ ] Run `python 07-scripts/core/check_env.py` — it validates what's present
 
 ## 3. Memory (5 min)
-- [ ] `12-memory/strategy.md` — write 5 lines: where you're going and why
-- [ ] From now on, end sessions by writing to memory. That's the compounding loop.
+- [ ] Personal north star lives in the agent's memory tool + your notes vault; `12-memory/` is OS-operational only — read `12-memory/README.md` for the routing rule
+- [ ] From now on, end sessions by writing to memory (the right store). That's the compounding loop.
 
 ## 4. First workflow run
 Tell your AI harness:

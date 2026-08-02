@@ -9,7 +9,7 @@ knowledge so it never has to be researched twice.
 2. Research (web, docs, primary sources). Note every source URL.
 3. Write the summary: 5 key findings → what they mean for the decision → recommendation
 4. Save to `02-knowledge/<domain>/<topic>.md` and add a row to `_index.md`
-5. If it changed a decision → log it in `12-memory/decisions_log.md`
+5. If it changed an OS decision → log it in `12-memory/decisions_log.md` (personal decisions → the notes vault)
 
 ## Edge cases
 - Sources conflict → present both sides with dates; recency wins for facts,
